@@ -1,0 +1,4 @@
+name = Custom Delete
+description = Provides custom delete functionality
+core = 7.x
+package = Custom Delete
